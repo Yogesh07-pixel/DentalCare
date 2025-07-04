@@ -216,6 +216,10 @@ body {
   margin-bottom: 15px;
 }
 
+.catpcha-input-field {
+  border-radius: 999px 0 0 999px !important;
+}
+
 .captcha-box input {
   flex: 1;
   padding: 12px 18px;
@@ -227,8 +231,9 @@ body {
 
 .captcha-value {
   background-color: #3a2c2c;
+  margin-bottom: 15px;
   color: white;
-  padding: 12px 18px;
+  padding: 10.2px 17px;
   font-size: 14px;
   font-weight: bold;
   border-radius: 0 999px 999px 0;
